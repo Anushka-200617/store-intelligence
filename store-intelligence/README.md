@@ -89,11 +89,4 @@ See docs/DESIGN.md for system architecture.
 
 See docs/CHOICES.md for design decisions.
 
-## Results
 
-Test Store (STORE_BLR_002):
-- Unique visitors: 14
-- Conversion rate: 57.14%
-- Billing sessions: 8
-- Queue abandonment: 0%
-- Events processed: 155
